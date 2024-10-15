@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-<code><img title="vs code" height="40" src="images/icons8-код-визуальной-студии-2019-240 (1).png"></code>
+ <code><img title="vs code" height="40" src="images/icons8-код-визуальной-студии-2019-240 (1).png"></code>
  <code><img title="python" height="40" src="images/python-original.svg"></code>
  <code><img title="fastapi" height="40" src="images/fastapi.svg"></code>
  <code><img title="github" height="40" src="images/45_github-tile.e1be128b4e.svg"></code>
@@ -31,7 +31,6 @@
 <a href="https://t.me/medvdv94" target="_blank">
 <img src="images/icons8-логотип-telegram-48.png" />
 </a>
-<br>
 <a href="https://vk.com/wished4" target="_blank">
 <img src="images/icons8-vkontakte-48.png" />
 </a>
