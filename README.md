@@ -31,6 +31,7 @@
 <a href="https://t.me/medvdv94" target="_blank">
 <img src="images/icons8-логотип-telegram-48.png" />
 </a>
+<br>
 <a href="https://vk.com/wished4" target="_blank">
 <img src="images/icons8-vkontakte-48.png" />
 </a>
