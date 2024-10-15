@@ -1,16 +1,28 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=450&height=70&lines=Hi+there%2C+I+am+Andrew+Medvedev)](https://git.io/typing-svg)
+<p align="center">
+        <!-- Intro -->
+        </samp>
+        I study at the university
+        <br>
+        I like programming, especially reading documentation
+        <br>
+        I want to become a backend developer, every day I get closer to my goal!
+        </samp>
+</p>
 
-<!--
-**AndrewMedvedev/AndrewMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=0045F7&background=FFFFFF00&width=450&height=70&lines=+Languages+%26+Frameworks+%26+Tools++)](https://git.io/typing-svg)
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+<code><img title="vs code" height="40" src="images/icons8-код-визуальной-студии-2019-240.png"></code>
+ <code><img title="python" height="40" src="images/python-original.svg"></code>
+ <code><img title="fastapi" height="40" src="images/fastapi.svg"></code>
+ <code><img title="github" height="40" src="images/45_github-tile.e1be128b4e.svg"></code>
+ <code><img title="git" height="40" src="images/git-original.svg"></code>
+ <code><img title="docker" height="40" src="images/919853.png"></code>
+ <code><img title="postgresql" height="40" src="images/postgresql.svg"></code>
+ <code><img title="redis" height="40" src="images/redis_plain_wordmark_logo_icon_14635.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=F70000&background=FFFFFF00&width=450&height=70&lines=Connect+with+me)](https://git.io/typing-svg)
