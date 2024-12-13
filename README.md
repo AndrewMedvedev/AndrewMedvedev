@@ -28,7 +28,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=F70000&background=FFFFFF00&width=450&height=70&lines=Connect+with+me)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://t.me/medvdv94" target="_blank">
+<a href="https://t.me/andremedvdv" target="_blank">
 <img src="images/icons8-логотип-telegram-48.png" />
 </a>
 <a href="https://vk.com/wished4" target="_blank">
