@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=F7F7F7&background=FFFFFF00&width=450&height=70&lines=Hi+there%2C+I+am+Andrew+Medvedev)](https://git.io/typing-svg)
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&color=735BF7&background=FF000000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I+am+toro+pazzo)](https://git.io/typing-svg)
         <!-- Intro -->
         </samp>
         I study at the university
