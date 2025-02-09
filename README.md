@@ -10,7 +10,7 @@
         </samp>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&color=B8FF56&background=FF000000&width=500&lines=Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&color=A0FF49&background=FF000000&center=true&vCenter=true&width=500&lines=Stack" alt="Typing SVG" /></a>
 <br>
 
 
