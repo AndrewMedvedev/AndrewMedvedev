@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=0045F7&background=FFFFFF00&width=450&height=70&lines=+Languages+%26+Frameworks+%26+Tools++)](https://git.io/typing-svg)
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMedvedev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMedvedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
  <code><img title="vs code" height="40" src="images/icons8-код-визуальной-студии-2019-240 (1).png"></code>
