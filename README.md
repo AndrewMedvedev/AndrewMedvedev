@@ -20,6 +20,7 @@
  <code><img title="git" height="40" src="images/git-original.svg"></code>
  <code><img title="github" height="40" src="images/45_github-tile.e1be128b4e.svg"></code>
  <code><img title="github actions" height="40" src="images/GitHub Actions.png"></code>
+ <code><img title="poetry" height="40" src="images/Python Poetry.png"></code>
  <code><img title="postgresql" height="40" src="images/postgresql.svg"></code>
  <code><img title="redis" height="40" src="images/redis_plain_wordmark_logo_icon_14635.png"></code>
  <code><img title="docker" height="40" src="images/919853.png"></code>
