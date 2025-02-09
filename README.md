@@ -32,7 +32,7 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&color=FFF635&background=FF000000&width=500&lines=Connect+with+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&color=FFF635&background=FF000000&center=true&width=500&lines=Connect+with+me" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://t.me/andremedvdv" target="_blank">
