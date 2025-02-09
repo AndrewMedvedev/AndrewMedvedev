@@ -34,7 +34,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Agdasima&weight=600&size=25&pause=1000&color=F70000&background=FFFFFF00&width=450&height=70&lines=Connect+with+me)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1800&color=FFF635&background=FF000000&width=500&lines=Connect+with+me" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://t.me/andremedvdv" target="_blank">
