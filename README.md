@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1800&color=735BF7&background=FF000000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I+am+toro+pazzo)](https://git.io/typing-svg)
+
+
         <!-- Intro -->
         </samp>
         I study at the university
